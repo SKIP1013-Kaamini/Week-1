@@ -1,0 +1,19 @@
+package myInfo;
+
+class PersonalInfo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Everyone");
+		System.out.println();
+		System.out.println("Name: Kaamini Kulanthlu");
+		System.out.println("Matrix Number : 288355");
+		System.out.println("Place: Cameron Highlands,Pahang");
+		System.out.println("Mother's name : Santhi");
+		System.out.println("Father's name :Kulanthlu");
+		System.out.println("Brother's name :Devan");
+		System.out.println("Course : Computer Science");
+		System.out.println("University: UUM");
+		System.out.println();
+		System.out.println("Thank you and have a nice day");
+		
